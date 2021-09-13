@@ -1,7 +1,7 @@
 # movielistapi
 
 CSV to API
-Web services which exposes RESTFUL endpoint for a CSV file using Spring Boot, Spring Data, Spring Security & Cassandra.
+Web services which exposes RESTFUL endpoint for a CSV file using Spring Boot, Spring Data, Cassandra, h2.
 
 How to Run:
 Make sure keyspace with name mykeyspace exist in your Aluysio Instance
